@@ -3,14 +3,14 @@
 ### Install Spark
 ---
 
-[Spark_Install_instructions.pdf](https://github.com/nickbel7/ntua-advanced-databases/data/Spark_Install_instructions.pdf)
+[Spark_Install_instructions.pdf](https://github.com/nickbel7/ntua-advanced-databases/blob/master/Installation/Spark_Install_instructions.pdf)
 
 
 ### Install Hadoop
 
 ---
 
-[](https://sparkbyexamples.com/hadoop/apache-hadoop-installation/)
+[Install-Hadoop](https://sparkbyexamples.com/hadoop/apache-hadoop-installation/)
 
 1. Setup Passwordless Login Between NameNode and DataNode
     
