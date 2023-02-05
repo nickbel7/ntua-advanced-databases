@@ -2,7 +2,7 @@
 Term project for the course 'Advanced Databases' during 9th semester at NTUA
 
 ## Contributors
-1. Elina Syrri ([ElinaSyr](https://github.com/ElinaSyr))
+1. Elina Syrri ([ElinaSyr](https://github.com/elinasyr))
 1. Nick Bellos ([nickbel7](https://github.com/nickbel7))
 
 
