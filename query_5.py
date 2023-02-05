@@ -59,7 +59,7 @@ for i in range(n_iter):
     res.collect()
     total_time += time.time() - start_time
 
-res.show()
+res.show(30)
 print('Average Total time for DataFrame: ', str(total_time/n_iter), 'sec')
 f.write('Average Time for Q5: ' + str(total_time/n_iter) + '\n')
 f.close()
