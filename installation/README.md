@@ -3,11 +3,9 @@
 ### Install Spark
 ---
 
-[Spark_Install_instructions.pdf](https://github.com/nickbel7/ntua-advanced-databases/blob/master/Installation/Spark_Install_instructions.pdf)
-
+[Spark_Install_instructions.pdf](https://github.com/nickbel7/ntua-advanced-databases/blob/master/installation/Spark_Install_instructions.pdf)
 
 ### Install Hadoop
-
 ---
 
 [Install-Hadoop](https://sparkbyexamples.com/hadoop/apache-hadoop-installation/)
